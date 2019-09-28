@@ -1,0 +1,9 @@
+Neos:
+  Neos:
+    fusion:
+      autoInclude:
+        'Digidennis.Textile': TRUE
+    userInterface:
+      translation:
+        autoInclude:
+          'Digidennis.Textile': ['NodeTypes/*']

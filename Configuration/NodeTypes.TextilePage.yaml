@@ -1,0 +1,3 @@
+Digidennis.Textile:TextilePage:
+  superTypes:
+    Digidennis.MageMe:ProductPage: true

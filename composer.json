@@ -1,0 +1,13 @@
+{
+    "description": "",
+    "type": "neos-package",
+    "name": "digidennis/textile",
+    "require": {
+        "digidennis/MageMe": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Digidennis\\Textile\\": "Classes"
+        }
+    }
+}
